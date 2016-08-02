@@ -1,0 +1,6 @@
+model_checkpoint_path: "800"
+all_model_checkpoint_paths: "../iter400/400"
+all_model_checkpoint_paths: "../iter500/500"
+all_model_checkpoint_paths: "../iter600/600"
+all_model_checkpoint_paths: "../iter700/700"
+all_model_checkpoint_paths: "800"

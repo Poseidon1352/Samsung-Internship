@@ -1,0 +1,6 @@
+model_checkpoint_path: "3500"
+all_model_checkpoint_paths: "../iter3100/3100"
+all_model_checkpoint_paths: "../iter3200/3200"
+all_model_checkpoint_paths: "../iter3300/3300"
+all_model_checkpoint_paths: "../iter3400/3400"
+all_model_checkpoint_paths: "3500"
