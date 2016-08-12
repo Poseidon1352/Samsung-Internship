@@ -1,0 +1,4 @@
+model_checkpoint_path: "0"
+all_model_checkpoint_paths: "../iter20/20"
+all_model_checkpoint_paths: "../iter40/40"
+all_model_checkpoint_paths: "0"
