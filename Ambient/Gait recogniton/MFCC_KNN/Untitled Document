@@ -1,0 +1,4 @@
+mfcc from python_speech_features
+knn from sklearn
+pairs of dims on axis
+3 classes, one 'is' silence
