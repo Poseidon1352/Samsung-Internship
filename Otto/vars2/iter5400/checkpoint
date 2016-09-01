@@ -1,6 +1,0 @@
-model_checkpoint_path: "5400"
-all_model_checkpoint_paths: "../iter5000/5000"
-all_model_checkpoint_paths: "../iter5100/5100"
-all_model_checkpoint_paths: "../iter5200/5200"
-all_model_checkpoint_paths: "../iter5300/5300"
-all_model_checkpoint_paths: "5400"

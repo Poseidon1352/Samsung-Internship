@@ -1,6 +1,0 @@
-model_checkpoint_path: "2800"
-all_model_checkpoint_paths: "../iter2400/2400"
-all_model_checkpoint_paths: "../iter2500/2500"
-all_model_checkpoint_paths: "../iter2600/2600"
-all_model_checkpoint_paths: "../iter2700/2700"
-all_model_checkpoint_paths: "2800"

@@ -1,6 +1,0 @@
-model_checkpoint_path: "4300"
-all_model_checkpoint_paths: "../iter3900/3900"
-all_model_checkpoint_paths: "../iter4000/4000"
-all_model_checkpoint_paths: "../iter4100/4100"
-all_model_checkpoint_paths: "../iter4200/4200"
-all_model_checkpoint_paths: "4300"
